@@ -1,7 +1,7 @@
 # uts_tictactoe
 
 Project ini dibuat untuk memenuhi Ujian Tengah Semester Mata Kuliah Pemrograman Sistem Mobile.
-
+[ik]
 Nama  : Ferdiansyah Anggana Putra Harahap
 NIM   : 3337220049
 KELAS : C
